@@ -1,0 +1,5 @@
+﻿  Main.cpp
+X:\()Programming projects\matrix effect\Matrix effect\Matrix-effect\Main.cpp(109,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+X:\()Programming projects\matrix effect\Matrix effect\Matrix-effect\Main.cpp(165,17): warning C4244: '=': conversion from 'double' to 'Uint8', possible loss of data
+X:\()Programming projects\matrix effect\Matrix effect\Matrix-effect\Main.cpp(166,17): warning C4244: '=': conversion from 'double' to 'Uint8', possible loss of data
+  Matrix effect.vcxproj -> X:\()Programming projects\matrix effect\Matrix effect\Matrix-effect\x64\Debug\Matrix effect.exe
